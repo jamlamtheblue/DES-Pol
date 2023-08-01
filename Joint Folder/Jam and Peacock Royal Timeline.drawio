@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T23:45:08.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TSsOjiVKGFeiBRjRZ_9c" version="21.6.1" type="device">
+<mxfile host="Electron" modified="2023-08-01T21:22:18.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="lCQUlatyLMqRbAaYZCkz" version="21.5.1" type="device">
   <diagram id="zyraeVjW2Bd-Q2xlx6y6" name="Page-1">
-    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pdcznW-mLiutUTcBKjFM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="tMO71jz2EXLl-aefz__Y-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="11110" width="480" height="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5BCEFA;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="11110" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pdcznW-mLiutUTcBKjFM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry y="8850" width="480" height="580" as="geometry" />
         </mxCell>
         <mxCell id="6q6do9RBU1fcBzbUBkZI-62" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#FFE4E3;strokeColor=#C7B2B1;" parent="1" vertex="1">
@@ -1051,10 +1057,10 @@
         <mxCell id="6q6do9RBU1fcBzbUBkZI-59" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#E0C28F;strokeColor=#BFA67A;" parent="1" vertex="1">
           <mxGeometry x="240" y="8130" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="6q6do9RBU1fcBzbUBkZI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#CCE089;strokeColor=#ACBD73;" parent="1" vertex="1">
+        <mxCell id="6q6do9RBU1fcBzbUBkZI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="8090" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6q6do9RBU1fcBzbUBkZI-61" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#A3E05E;strokeColor=#84B54C;" parent="1" vertex="1">
+        <mxCell id="6q6do9RBU1fcBzbUBkZI-61" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="8130" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6q6do9RBU1fcBzbUBkZI-63" value="Olivia I Kagu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1221,8 +1227,8 @@
         </mxCell>
         <mxCell id="p9aOizVDa8fd-qw6wq67-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="11100" as="sourcePoint" />
-            <mxPoint x="620" y="11100" as="targetPoint" />
+            <mxPoint x="520" y="12100" as="sourcePoint" />
+            <mxPoint x="480" y="12100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p9aOizVDa8fd-qw6wq67-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -1306,125 +1312,563 @@
             <mxPoint x="480" y="9999.999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9aOizVDa8fd-qw6wq67-12" target="p9aOizVDa8fd-qw6wq67-12">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p9aOizVDa8fd-qw6wq67-12" target="p9aOizVDa8fd-qw6wq67-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#CCE089;strokeColor=#ACBD73;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="8990" width="120" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-5" value="Leon V/II Tari" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-5" value="Leon V/II Tari" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="81.25" y="8850" width="77.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-6" value="Elizabeth II Ceros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-6" value="Elizabeth II Ceros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="8990" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="8850" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-8" value="Lilianne" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;resizeHeight=1;resizeWidth=1;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-8" value="Lilianne" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;resizeHeight=1;resizeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="8.129999999999995" y="8850" width="60" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry y="9430" width="480" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="350" y="9430" width="120" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-11" value="Arthur II Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-11" value="Arthur II Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="9430" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-12" value="Leonora I Tari" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-12" value="Leonora I Tari" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="9430" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry y="9820" width="480" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-14" value="Ellis I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-14" value="Ellis I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="9820" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#A3E05E;strokeColor=#84B54C;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="9820" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-17" value="Morgana I Balena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-17" value="Morgana I Balena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="9817.5" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry y="9960" width="480" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-19" value="Elliot I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-19" value="Elliot I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="9960" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-24" value="&lt;b&gt;Date&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="11000" width="100" height="100" as="geometry" />
+        <mxCell id="pdcznW-mLiutUTcBKjFM-24" value="&lt;b&gt;1201-1210&lt;/b&gt;&lt;br&gt;1204- Birth of Ellis II Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12000" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10100" as="sourcePoint" />
             <mxPoint x="480" y="10100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-26" value="&lt;b&gt;1001-1010&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-26" value="&lt;b&gt;1001-1010&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="10000" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10200" as="sourcePoint" />
             <mxPoint x="480" y="10200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-28" value="&lt;b&gt;1011-1020&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-28" value="&lt;b&gt;1011-1020&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="10100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10300" as="sourcePoint" />
             <mxPoint x="480" y="10300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-32" value="&lt;b&gt;1021-1030&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="10200" width="100" height="100" as="geometry" />
+        <mxCell id="pdcznW-mLiutUTcBKjFM-32" value="&lt;b&gt;1021-1030&lt;/b&gt;&lt;br&gt;10280- Adam II Primula and Lilianne I Veton wed" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10200" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-33" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10400" as="sourcePoint" />
             <mxPoint x="480" y="10400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-34" value="&lt;b&gt;1031-1040&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="10300" width="100" height="100" as="geometry" />
+        <mxCell id="pdcznW-mLiutUTcBKjFM-34" value="&lt;b&gt;1031-1040&lt;/b&gt;&lt;br&gt;1031- Birth of Stephen I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10300" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10500" as="sourcePoint" />
             <mxPoint x="480" y="10500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-36" value="&lt;b&gt;1041-1050&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-36" value="&lt;b&gt;1041-1050&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="10400" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10600" as="sourcePoint" />
             <mxPoint x="480" y="10600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-38" value="&lt;b&gt;1051-1060&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="10500" width="100" height="100" as="geometry" />
+        <mxCell id="pdcznW-mLiutUTcBKjFM-38" value="&lt;b&gt;1051-1060&lt;/b&gt;&lt;br&gt;1057 - Birth of Elliot II Primular" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10500" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="10700" as="sourcePoint" />
             <mxPoint x="480" y="10700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-40" value="&lt;b&gt;1061-1070&lt;/b&gt;&lt;br&gt;1066- Death of Elliot I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="10600" width="170" height="100" as="geometry" />
+        <mxCell id="pdcznW-mLiutUTcBKjFM-40" value="&lt;b&gt;1061-1070&lt;/b&gt;&lt;br&gt;1066- Death of Elliot I Primula&lt;br&gt;1066- Adam II Primula crowned over Palorsenna and Lunaura &amp;amp; Lilianne I Veton crowned over Lunaura" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10600" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-41" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#CCE089;strokeColor=#ACBD73;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-41" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="9960" width="120" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="pdcznW-mLiutUTcBKjFM-42" value="Luna II Artun" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdcznW-mLiutUTcBKjFM-42" value="Luna II Artun" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="9960" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="10800" as="sourcePoint" />
+            <mxPoint x="480" y="10800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-2" value="&lt;b&gt;1071-1080&lt;/b&gt;&lt;br&gt;1076- Death of Adam II Primula&lt;br&gt;1077- Stephen I Primula crowned over Palorsenna and Lunaura" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10700" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="10900" as="sourcePoint" />
+            <mxPoint x="480" y="10900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-4" value="&lt;b&gt;1081-1090&lt;/b&gt;&lt;br&gt;Elliot II Primula &amp;amp; Louise II Froni wed" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10800" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="10999" as="sourcePoint" />
+            <mxPoint x="480" y="10999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-6" value="&lt;b&gt;1091-1100&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="10899" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry y="10660" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-9" value="Adam II Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="195" y="10660" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="10660" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-11" value="Lilianne I Veton" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="10660" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry y="10760" width="480" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-13" value="Stephen I Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="187.5" y="10760" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry y="11050" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-15" value="Elliot II Primula" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="187.5" y="11050" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5BCEFA;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="11050" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-17" value="Louise II Froni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="11050" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11100" as="sourcePoint" />
+            <mxPoint x="480" y="11100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-20" value="&lt;b&gt;1101-1110&lt;/b&gt;&lt;br&gt;1105- Death of Stephen I Primula&lt;br&gt;1105- Elliot II Primula crowned over Palorsenna and Lunarua &amp;amp; Louise II Froni crowned over Lunaura" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11000" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11200" as="sourcePoint" />
+            <mxPoint x="480" y="11200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-23" value="&lt;b&gt;1111-1120&lt;/b&gt;&lt;br&gt;1111- Death of Elliot II Primula" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11100" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-24" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11300" as="sourcePoint" />
+            <mxPoint x="480" y="11300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-25" value="&lt;b&gt;1121-1130&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11400" as="sourcePoint" />
+            <mxPoint x="480" y="11400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-31" value="&lt;b&gt;1131-1140&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11500" as="sourcePoint" />
+            <mxPoint x="480" y="11500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-33" value="&lt;b&gt;1141-1150&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11600" as="sourcePoint" />
+            <mxPoint x="480" y="11600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-35" value="&lt;b&gt;1151-1160&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11700" as="sourcePoint" />
+            <mxPoint x="480" y="11700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-37" value="&lt;b&gt;1161-1170&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-38" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11800" as="sourcePoint" />
+            <mxPoint x="480" y="11800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-39" value="&lt;b&gt;1171-1180&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11700" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-40" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="11900" as="sourcePoint" />
+            <mxPoint x="480" y="11900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-41" value="&lt;b&gt;1181-1190&lt;/b&gt;&lt;br&gt;1189- Birth of Elliot III Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11800" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-42" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12000" as="sourcePoint" />
+            <mxPoint x="480" y="12000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-43" value="&lt;b&gt;1191-1200&lt;/b&gt;&lt;br&gt;Elliot III Dendron crowned over Palorsenna" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="11900" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="11990" width="240" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-45" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="14280" as="sourcePoint" />
+            <mxPoint x="720" y="14280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-46" value="&lt;b&gt;Date&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="14180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-47" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12200" as="sourcePoint" />
+            <mxPoint x="480" y="12200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-48" value="&lt;b&gt;1211-1220&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-49" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12300" as="sourcePoint" />
+            <mxPoint x="480" y="12300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-50" value="&lt;b&gt;1221-1230&lt;/b&gt;&lt;br&gt;1225- Birth of Elliot IV Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12200" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-51" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12400" as="sourcePoint" />
+            <mxPoint x="480" y="12400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-52" value="&lt;b&gt;1231-1240&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-53" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12500" as="sourcePoint" />
+            <mxPoint x="480" y="12500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-54" value="&lt;b&gt;1241-1250&lt;/b&gt;&lt;br&gt;1248- Birth of Ellis III/II Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12400" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-55" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12600" as="sourcePoint" />
+            <mxPoint x="480" y="12600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-56" value="&lt;b&gt;1251-1260&lt;/b&gt;&lt;br&gt;1258- Death of Elliot III Dendron&lt;br&gt;1258- Ellis II Dendron crowned over Palorsenna" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12500" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-59" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12700" as="sourcePoint" />
+            <mxPoint x="480" y="12700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-60" value="&lt;b&gt;1261-1270&lt;/b&gt;&lt;br&gt;1268- Ellis III/II Dendron and Luna III Magster are wed" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12600" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-61" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12800" as="sourcePoint" />
+            <mxPoint x="480" y="12800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-62" value="&lt;b&gt;1271-1280&lt;/b&gt;&lt;br&gt;1276- Death of Ellis II&lt;br&gt;1277- Elliot IV crowned over Palorsenna&lt;br&gt;1279- Birth of Junex I Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12700" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-63" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="12900" as="sourcePoint" />
+            <mxPoint x="480" y="12900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-64" value="&lt;b&gt;1281-1290&lt;/b&gt;&lt;br&gt;1282- Death of Elliot IV&lt;br&gt;1282- Ellis III/II crowned over Palorsenna and Lunaura &amp;amp; Luna III crowned over Lunaura&lt;br&gt;1283- Divorce of Ellis III/II and Luna III&lt;br&gt;1283- Luna III Magster and Oliver I Copnia wed&lt;br&gt;1283- Birth of Lewis II Magnia" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12800" width="520" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-65" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13000" as="sourcePoint" />
+            <mxPoint x="480" y="13000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-66" value="&lt;b&gt;1291-1300&lt;/b&gt;&lt;br&gt;1293- Oliver I Copnia crowned over Lunaura" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="12900" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="12820" width="480" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="360" y="12820" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="11990" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-71" value="Ellis Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="11990" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="11990" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-74" value="Arwen Primula-Lowe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="11990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-76" value="Elliot III Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="11990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="12580" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-78" value="Ellis II Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="75" y="12580" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="12760" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-80" value="Elliot IV Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="12760" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-81" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13100" as="sourcePoint" />
+            <mxPoint x="480" y="13100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-82" value="&lt;b&gt;1301-1310&lt;br&gt;&lt;/b&gt;1301- Lewis II Magnia and Elaine II Solumn wed&lt;br&gt;1301- Birth of Laurence II Solnia&lt;br&gt;1303- Birth of Ellis IV Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="13000" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-83" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13200" as="sourcePoint" />
+            <mxPoint x="480" y="13200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-84" value="&lt;b&gt;1311-1320&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="13100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-85" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13300" as="sourcePoint" />
+            <mxPoint x="480" y="13300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-86" value="&lt;b&gt;1321-1330&lt;/b&gt;&lt;br&gt;1326- Laurence II Solnia and Lydia I Gasris wed&lt;br&gt;1328- Birth of Hugo II Gasnia&lt;br&gt;1329- Death of Oliver I Copnia&lt;br&gt;1329- Death of Ellis III/II Dendron&lt;br&gt;1330- Junex I Dendron crowned over Palorsenna" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="13200" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="12830" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-90" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13400" as="sourcePoint" />
+            <mxPoint x="480" y="13400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-91" value="&lt;b&gt;1331-1340&lt;/b&gt;&lt;br&gt;1331- Birth of Elliot V Dendron&lt;br&gt;1336- Death of Luna III Magster&lt;br&gt;1336- Lewis II Magnia and Elaine II Solumn crowned over Lunaura" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="479.5" y="13300" width="440.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360.5" y="12820.5" width="119" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-88" value="Luna III Magster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="375" y="12820.5" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="12830" width="240" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-94" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="0.5" y="12820.5" width="239" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tMO71jz2EXLl-aefz__Y-87" value="Ellis III/II Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="12820.5" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5BCEFA;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="12930" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-2" value="Oliver I Copnia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="12930" width="119.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13500" as="sourcePoint" />
+            <mxPoint x="480" y="13500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-4" value="&lt;b&gt;1341-1350&lt;/b&gt;&lt;br&gt;1342- Death of Junex I Dendron&lt;br&gt;1342- Death of Lewis II Magnia&lt;br&gt;1342- Laurence II Solnia and Lydia I Gasris crowned over Lunaura&lt;br&gt;1342- Ellis IV Dendron crowned over Palorsenna" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13400" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="13360" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5BCEFA;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="13360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-7" value="Lewis II Magnia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="13360" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-9" value="Elaine II Solumn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="13360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="239.5" y="13420" width="240.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#5BCEFA;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="13420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-12" value="Lydia I Gasris" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="13420" width="119.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-13" value="Laurence II Solnia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="13420" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13600" as="sourcePoint" />
+            <mxPoint x="480" y="13600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-15" value="&lt;b&gt;1351-1360&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13700" as="sourcePoint" />
+            <mxPoint x="480" y="13700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-17" value="&lt;b&gt;1361-1370&lt;/b&gt;&lt;br&gt;1365- Death of Laurence II Solnia&lt;br&gt;1365- Hugo II Gasnia crowned over Lunaura&lt;br&gt;1370- Death of Ellis IV Dendron&lt;br&gt;1370- Elliot V Dendron crowned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13600" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13800" as="sourcePoint" />
+            <mxPoint x="480" y="13800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-21" value="&lt;b&gt;1371-1380&lt;/b&gt;&lt;br&gt;1378- Hugo II Gasnia and Olivia II Palafor wed&lt;br&gt;1378- Olivia II Palafor crowned over Lunarua&lt;br&gt;1378- Death of Elliot V Dendron&lt;br&gt;1379- Death of Olivia II Palafor" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13700" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="13900" as="sourcePoint" />
+            <mxPoint x="480" y="13900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-23" value="&lt;b&gt;1381-1390&lt;/b&gt;&lt;br&gt;1382- Death of Hugo II Gasnia" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13800" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="14000" as="sourcePoint" />
+            <mxPoint x="480" y="14000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-25" value="&lt;b&gt;1391-1400&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13900" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="13650" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5BCEFA;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="13780" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-28" value="Olivia II Palafor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="13780" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="13290" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-30" value="Junex I Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="13290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="13420" width="239.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-32" value="Ellis IV Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74.87" y="13420" width="89.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="13700" width="239.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aUaGgDCDCP8hp9Nu9wZe-34" value="Elliot V Dendron" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="13700" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
