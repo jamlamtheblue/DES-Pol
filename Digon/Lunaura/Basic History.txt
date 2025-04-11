@@ -1,46 +1,48 @@
-Year	Event
-111 	Torwei annexed into Sulyion (Palorsenna)
-117 	Lochia annexed into Cynum (Lunaura)
-201 	Kingdom of Cynum inherited into Kingdom of Sulyion (George I)
-252 	Duncan II vanishes into mountains. Requires mountains either in land or in neighbouring lands.
-270 	Cynum annexed into Sulyion
-273 	Okerdet annxed into Sulyion (???)
-276 	Hoyaland annexed into Sulyion (???)
-277 	Raunahild declared capital (Palorsenna)
-341 	Kingdom of South Sulyion split from Sulyion due to disagreements in inheritance. Composed of Cynum and Lochia
-520 	Hofjor annexed into Sulyion (???)
-522 	Kjersta annexed into Sulyion (???)
-523 	??? annexed into Sulyion
-678 	Elaine Lacerta revolts south of mountains
-788 	Lunaura declared. Establishment of Preletia.
-799 	Universal Jure Uxoris
-836 	Valentine Revolt against Olivia I
-886 	United Lunaura & Palorsenna under Leon II
-888 	Sulyion House of Lords established
-1143	Death of Louise II. Declaration of Republic of Lunaura.
-1144	First Lunauran Constitutional Convention.
-??? 	Conquering of Lunaura by Palorsenna.
-1282 	Coronation of Luna III and Ellis II. Proclamation of Kingdom of Lunaura.
-1282	Soverign Succession Mandate - All future Lunauran Daubrin must descend from Adam II Primula
-1283 	Divorce of Luna III and Ellis II, removal of Ellis II from Lunaura.
-1382	Collapse of Lunaura. Principality Era.
-1386	Palorsennan invasion of Northern Lunaura. Cynum transfer.
-1348	Declaration of United Principalities of Lunaura.
+YrPA	YrTN	Event
+111 		Torwei annexed into Sulyion (Palorsenna)
+117 		Lochia annexed into Cynum (Lunaura)
+201 		Kingdom of Cynum inherited into Kingdom of Sulyion (George I)
+252 		Duncan II vanishes into mountains. Requires mountains either in land or in neighbouring lands.
+270 		Cynum annexed into Sulyion
+273 		Okerdet annxed into Sulyion (???)
+276 		Hoyaland annexed into Sulyion (???)
+277 		Raunahild declared capital (Palorsenna)
+341 		Kingdom of South Sulyion split from Sulyion due to disagreements in inheritance. Composed of Cynum and Lochia
+520 		Hofjor annexed into Sulyion (???)
+522 		Kjersta annexed into Sulyion (???)
+523 		??? annexed into Sulyion
+678 		Elaine Lacerta revolts south of mountains
+788 		Lunaura declared. Establishment of Preletia.
+799 		Universal Jure Uxoris
+836 		Valentine Revolt against Olivia I
+886 		United Lunaura & Palorsenna under Leon II
+888 		Sulyion House of Lords established
+1143		Death of Louise II. Declaration of Republic of Lunaura.
+1144		First Lunauran Constitutional Convention.
+??? 		Conquering of Lunaura by Palorsenna.
+1282 		Coronation of Luna III and Ellis II. Proclamation of Kingdom of Lunaura.
+1282		Soverign Succession Mandate - All future Lunauran Daubrin must descend from Adam II Primula
+1283 		Divorce of Luna III and Ellis II, removal of Ellis II from Lunaura.
+1382		Collapse of Lunaura. Principality Era.
+1386		Palorsennan invasion of Northern Lunaura. Cynum transfer.
+1391		Declaration of Union of Lunauran Principalities.
 
-1472	Declaration of Empire of Lunaura.
+1472	1327	Declaration of Empire of Lunaura.
 
-1615	First colony in modern Tennaire
+1615	1470	First colony in modern Tennaire
 
-1755	Assassination of [monarch]. Declaration of rebellion in Tennaire.
-1757	Homelands revolution. Start of Lunauran civil war.
-1758	Palorsennan intervention. Tennaire independence signed. Declaration of Second Lunauran Republic. War with Palorsenna.
-1760	Second Constitutional Convention.
-1781	Crown Conspiracy successful with the removal of the republican leaders of Lunaura and invitation of [Palorsennan Monarch]. Peace with Palorsenna.
-1782	United Sovereign Kingdoms of Palorsenna-Lunaura established. Crown Constitution begins work.
-1785	Lunauran Crown Constitution made legal.
+1755	1610	Assassination of [monarch]. Declaration of rebellion in Tennaire.
+1757	1612	Homelands revolution. Start of Lunauran civil war.
+1758	1613	Palorsennan intervention. Tennaire independence signed. Declaration of Second Lunauran Republic. War with Palorsenna.
+1760	1615	Second Constitutional Convention.
+1781	1636	Crown Conspiracy successful with the removal of the republican leaders of Lunaura and invitation of [Palorsennan Monarch]. Peace with Palorsenna.
+1782	1637	United Sovereign Kingdoms of Palorsenna-Lunaura established. Crown Constitution begins work.
+1785	1640	Lunauran Crown Constitution made legal.
 
-1867	Lunaura-Palorsenna final split.
+1867	1722	Lunaura-Palorsenna final split.
 	
-1920	When Holeman wants a map for.
+2065	1920	When Holeman wants a map for.
 
-2100	Modern day
+2100	1955	Modern day
+
+		-145
